@@ -1,0 +1,7 @@
+datetime
+os
+fnmatch
+numpy
+python-opencv
+PyMuPDF
+PyPDF2
